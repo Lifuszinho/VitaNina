@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    background-color: #AFEEEE;
+    padding: 0px;
+    border: solid white 24px;
+}
+.Cabeçalho {
+    text-align: center;
+    color: white;
+    background-color: #1E90FF;
+    padding: 0px;
+    font-family: 'Proza Libre', sans-serif;
+    margin: 0px;
+}
+#Corpo {
+    color:black;
+    background-color: #AFEEEE;
+    margin: 64px;
+    padding: 0px;
+     font-family: 'Comic Neue', cursive;
+
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+h2 {
+    text-align: center;
+}
+
+#Vitamina {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Final {
+    text-align: center;
+    color: white;
+    background-color:  #1E90FF;
+    padding: 0px;
+    font-family: 'Proza Libre', sans-serif;
+}
+#Cardápio {
+    text-align: left;
+    margin: 16px;
+}
+
+
+    
+
